@@ -1,0 +1,26 @@
+section#banner {
+  max-width: 1720px;
+  background-color: white;
+  margin: 0 auto;
+  height: auto;
+  min-height: auto;
+  margin-top: 50px;
+}
+section#banner div.wrap {
+ 
+}
+section#banner div.wrap h2 {
+ 
+}
+section#banner div.wrap ul {
+  row-gap: 20px;
+}
+section#banner div.wrap ul li { 
+  width: calc(100% / 7);
+}
+section#banner div.wrap ul li a {
+ 
+}
+section#banner div.wrap ul li a img {
+ 
+}
