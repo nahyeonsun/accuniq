@@ -37,7 +37,7 @@ header div.wrap h1 a::after{
 header div.wrap ul.gnb {
   align-items: center;
   transition: 0.5s;
-  opacity: 0;
+  /*! opacity: 0; */
 }
 header div.wrap ul.gnb li {  
   font-weight: bold;
@@ -75,7 +75,7 @@ header div.wrap div.right > a.ham {
   /*! border-top: 4px solid #333; */
   /*! border-bottom: 4px solid #333; */
 }
-header a.updown{
+/* header a.updown{
   background-color: #ccc;
   width: 70px;
   height: 30px;
@@ -91,7 +91,7 @@ header a.updown{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-}
+} 
 header a.updown::before{
   content: "";
   border-top: 1px solid #ccc;
@@ -108,4 +108,4 @@ header a.updown::before{
 }
 .opacity1{
   opacity: 1 !important;
-}
+} */

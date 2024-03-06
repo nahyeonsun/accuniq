@@ -1,8 +1,8 @@
 main{
- height: calc(500%); 
+
 }
 main section{
-  height: calc(100vh);
+  height: 100vh;
   box-sizing: border-box;
   min-height: 800px;
   display: flex;
@@ -14,7 +14,6 @@ section#product {
   margin: 0 auto;
   background-color: white;
 }
-
 section#product .wrap {
   
   flex-direction: row-reverse;
